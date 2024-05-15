@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Trading Journal</title>
+    <description>Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
+</description>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 27 Apr 2024 14:31:50 +0200</pubDate>
+    <lastBuildDate>Sat, 27 Apr 2024 14:31:50 +0200</lastBuildDate>
+    <generator>Jekyll v3.8.7</generator>
+    
+      <item>
+        <title>PineScript Box</title>
+        <description>&lt;p&gt;All my stuff written in PineScript for TradingView.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Name&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Code&lt;/th&gt;
+      &lt;th&gt;Documentation&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;PRA Indicator&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Here&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;CWL Indicator&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Here&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;All this material is for educational use. Obviously it can be used on the live market, but at your own risk 😔
+&lt;cite&gt;The life&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Sat, 27 Apr 2024 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2024/04/27/pinescript-box/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024/04/27/pinescript-box/</guid>
+        
+        <category>PineScript</category>
+        
+        <category>TradingView</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>MQL5 Box</title>
+        <description>&lt;p&gt;Here my work done in MQL5 for MetaTrader 5&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Name&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Code&lt;/th&gt;
+      &lt;th&gt;Documentation&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;PRA Indicator&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Here&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;CWL Indicator&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Here&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;All this material is for educational use. Obviously it can be used on the live market, but at your own risk 😔
+&lt;cite&gt;The life&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Sat, 27 Apr 2024 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2024/04/27/mql5-box/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024/04/27/mql5-box/</guid>
+        
+        <category>MQL5</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>MQL4 Box</title>
+        <description>&lt;p&gt;Here my EA and indicator done in MQL4 for MetaTrader 4&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Name&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Code&lt;/th&gt;
+      &lt;th&gt;Documentation&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;PRA Indicator&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Here&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;CWL Indicator&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Here&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;All this material is for educational use. Obviously it can be used on the live market, but at your own risk 😔
+&lt;cite&gt;The life&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Sat, 27 Apr 2024 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2024/04/27/mql4-box/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024/04/27/mql4-box/</guid>
+        
+        <category>MQL4</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Economic Calendar Bot</title>
+        <description>&lt;p&gt;A simple REST service written in Go that take news every day for the next day from an API and return to Telegram.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/placeholder-20.jpg&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;If you want the bot in your own telegram channel or group, contact me! 😊&lt;/p&gt;
+
+&lt;/blockquote&gt;
+
+&lt;p&gt;Click here for source code.
+&lt;img src=&quot;/assets/images/placeholder-22.jpg&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 27 Apr 2024 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2024/04/27/economic-calendar-bot/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024/04/27/economic-calendar-bot/</guid>
+        
+        <category>Software</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+---
+layout: post
+title: "MQL5 Box"
+subtitle: "Here my work done in MQL5 for MetaTrader 5"
+date: 2024-04-27
+description: 
+image: /assets/images/mql5.png
+author: Mario Canalella
+tags: 
+  - MQL5
+---
+Here my work done in MQL5 for MetaTrader 5
+
+| Name         | Code  | Documentation |
+| :----------- | :---- |               |
+|PRA Indicator | Here  |               |
+|CWL Indicator | Here  |               |
+|              |       |               |
+|              |       |               |
+|              |       |               |
+|              |       |               |
+
+
+> All this material is for educational use. Obviously it can be used on the live market, but at your own risk 😔
+> <cite>The life</cite>

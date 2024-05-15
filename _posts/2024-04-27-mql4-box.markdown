@@ -1,0 +1,25 @@
+---
+layout: post
+title: "MQL4 Box"
+subtitle: "Here my EA and indicator done in MQL4 for MetaTrader 4"
+date: 2024-04-27
+description: 
+image: /assets/images/mql4.jpg
+author: Mario Canalella
+tags: 
+  - MQL4
+---
+Here my EA and indicator done in MQL4 for MetaTrader 4
+
+| Name         | Code  | Documentation |
+| :----------- | :---- |               |
+|PRA Indicator | Here  |               |
+|CWL Indicator | Here  |               |
+|              |       |               |
+|              |       |               |
+|              |       |               |
+|              |       |               |
+
+
+> All this material is for educational use. Obviously it can be used on the live market, but at your own risk 😔
+> <cite>The life</cite>
