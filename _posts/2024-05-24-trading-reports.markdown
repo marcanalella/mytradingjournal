@@ -4,7 +4,7 @@ title: "Trading Reports"
 subtitle: "Track your trading and get some statistics!"
 date: 2024-05-24
 description: 
-image: /assets/images/calendar.jpg
+image: /assets/images/trade-reports/1.png
 author: Mario Canalella
 tags: 
   - Software
@@ -39,9 +39,15 @@ This program combines the robustness of Go for backend processing with the flexi
 
 
 ![Placeholder1](/assets/images/trade-reports/1.png)
+&nbsp;
 ![Placeholder2](/assets/images/trade-reports/2.png)
+&nbsp;
 ![Placeholder3](/assets/images/trade-reports/3.png)
+&nbsp;
 ![Placeholder4](/assets/images/trade-reports/4.png)
+&nbsp;
+&nbsp;
+&nbsp;
 
 
 > If you are interested, contact me! 😊
