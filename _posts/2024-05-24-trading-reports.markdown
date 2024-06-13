@@ -11,7 +11,7 @@ tags:
 ---
 A simple REST service written in Go that take news every day for the next day from an API and return to Telegram.
 
-Click [here](https://github.com/marcanalella/economic-calendar-bot) for try the demo.
+Click [here](http://http://ec2-18-204-20-69.compute-1.amazonaws.com/) for try the demo.
 - email: test@test.com
 - password: test
 
