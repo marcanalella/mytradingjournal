@@ -17,7 +17,7 @@ social:
   - name: github
     url: https://github.com/marcanalella
   - name: telegram
-    url: https://codepen.io/thomasvaeth/
+    url: https://t.me/mariocanalella
 
 # Contact settings
 contact_img: /assets/images/contact-placeholder.gif
@@ -33,8 +33,8 @@ mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
 # Author settings
 author:
   - name: Mario Canalella
-    bio: Thomas Vaeth was born in New York, raised in Pennsylvania, and transplanted in Washington. He was a Web Developer at Urban Influence, but now he's a Software Engineer at Getty Images.
-    url: http://thomasvaeth.com
+    bio: Software Engineer | Finance Enthusiast
+    url: https://mariocanalella.netlify.app/
 
 # Pagination settings
 pagination:
