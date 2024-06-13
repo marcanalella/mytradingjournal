@@ -11,10 +11,9 @@ tags:
 ---
 A simple REST service written in Go that take news every day for the next day from an API and return to Telegram.
 
-![Placeholder](/assets/images/placeholder-20.jpg)
+Click [here](https://github.com/marcanalella/economic-calendar-bot) for source code.
+
+![Placeholder](/assets/images/calendar-placeholder.jpeg)
 
 > If you want the bot in your own telegram channel or group, contact me! 😊
 >
-
-Click here for source code.
-![Placeholder](/assets/images/placeholder-22.jpg)
