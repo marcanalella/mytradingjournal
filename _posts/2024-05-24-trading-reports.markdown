@@ -9,13 +9,11 @@ author: Mario Canalella
 tags: 
   - Software
 ---
-A simple REST service written in Go that take news every day for the next day from an API and return to Telegram.
+This program, developed using Go and React, allows users to input their trade information and performs statistical analysis on the collected data. Here's a brief overview of its components and functionality:
 
 Click [here](http://ec2-18-204-20-69.compute-1.amazonaws.com/) for try the demo.
 - email: test@test.com
 - password: test
-
-This program, developed using Go and React, allows users to input their trade information and performs statistical analysis on the collected data. Here's a brief overview of its components and functionality:
 
 # Backend: Go
 - REST API: The backend is implemented in Go, providing a RESTful API to handle trade data. It manages CRUD operations (Create, Read, Update, Delete) for trades.
