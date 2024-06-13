@@ -55,7 +55,7 @@ autopages:
   tags:
     layouts: 
       - 'tag.html'
-    title: 'The Barber Theme'
+    title: 'My Trading Journal'
     permalink: '/tag/:tag'
     slugify:
       mode: raw
@@ -71,12 +71,10 @@ compress_html:
   comments: all
   startings: [html, head, body]
 exclude:
-  - node_modules
   - .DS_Store
   - barber.jpg
   - Gemfile
   - Gemfile.lock
   - gulpfile.js
-  - package.json
   - README.md
   - vendor
