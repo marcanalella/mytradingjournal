@@ -11,14 +11,12 @@ tags:
 ---
 Here my work done in MQL5 for MetaTrader 5
 
-| Name         | Code  | Documentation |
-| :----------- | :---- |               |
-|PRA Indicator | Here  |               |
-|CWL Indicator | Here  |               |
-|              |       |               |
-|              |       |               |
-|              |       |               |
-|              |       |               |
+| Name         | Code + Documentation |
+| :----------- | :----                |
+|MT5 Rest Python | [Link](https://github.com/marcanalella/toy-box/tree/main/MQL5/mt5-rest-python)                  |
+|Magic Buttons | [Link](https://github.com/marcanalella/toy-box/tree/main/MQL5/magic-buttons)                  |
+|Trend Following Neutral Zone | [Link](https://github.com/marcanalella/toy-box/tree/main/MQL5/trend-following-neutral-zone)                       |
+|              |                       |
 
 
 > All this material is for educational use. Obviously it can be used on the live market, but at your own risk 😔
