@@ -11,14 +11,11 @@ tags:
 ---
 Here my EA and indicator done in MQL4 for MetaTrader 4
 
-| Name         | Code  | Documentation |
-| :----------- | :---- |               |
-|PRA Indicator | Here  |               |
-|CWL Indicator | Here  |               |
-|              |       |               |
-|              |       |               |
-|              |       |               |
-|              |       |               |
+| Name         | Code + Documentation |
+| :----------- | :----                |
+|Magic Buttons | [Link](https://github.com/marcanalella/toy-box/tree/main/MQL4/magic-buttons) |
+|Trap 12PM | [Link](https://github.com/marcanalella/toy-box/tree/main/MQL4/trap-12pm)                 |
+|              |                      |
 
 
 > All this material is for educational use. Obviously it can be used on the live market, but at your own risk 😔
