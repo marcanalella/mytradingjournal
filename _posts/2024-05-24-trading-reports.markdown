@@ -11,7 +11,7 @@ tags:
 ---
 This program, developed using Go and React, allows users to input their trade information and performs statistical analysis on the collected data. Here's a brief overview of its components and functionality:
 
-Click [here](http://ec2-18-204-20-69.compute-1.amazonaws.com/) for try the demo.
+Click [here](http://ec2-18-204-20-69.compute-1.amazonaws.com/) for try the demo. (AWS account suspended, sorry :( We will back soon)
 - email: test@test.com
 - password: test
 
